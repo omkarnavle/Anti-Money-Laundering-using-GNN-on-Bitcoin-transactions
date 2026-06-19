@@ -31,11 +31,8 @@ The project applies Graph Neural Networks to the Elliptic Bitcoin Dataset, condu
 
 | Name | Roll No. | Enrollment No. |
 |---|---|---|
-| Arslan Anzar | A004 | 86062500041 |
-| Ruchika Basutkar | A005 | 86062500052 |
-| Parin Kulkarni | A029 | 86062500035 |
 | Omkar Navle | A037 | 86062500050 |
-| Diya Rawat | A048 | 86062500030 |
+
 
 **Mentor:** Rutik Bhurke  
 **Institution:** Nilkamal School of Mathematics, Applied Statistics and Analytics  
